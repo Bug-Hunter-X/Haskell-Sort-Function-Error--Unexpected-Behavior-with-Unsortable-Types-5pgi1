@@ -1,0 +1,2 @@
+# Haskell Sort Function Bug
+This repository demonstrates a common error in Haskell related to the `sort` function from `Data.List`.  The bug arises when attempting to sort a list containing elements without a defined `Ord` instance (ordering).  The included code examples illustrate the problem and its solution.
